@@ -18,11 +18,11 @@ body {
 
 p {
     text-align: justify;
-    font-size: xx-large;
+    font-size: larger;
 }
 
 h1 {
-    font-size: xxx-large;
+    font-size: xx-large;
     letter-spacing: 4px;
     margin: 2vh 2vh;
     font-weight: bold;
@@ -98,12 +98,12 @@ h1 {
 }
 
 strong {
-    font-size: xxx-large;
+    font-size: medium;
     letter-spacing: 4px;
 }
 
 #aboutme {
-    font-size: xx-large;
+    font-size: larger;
 
 }
 
